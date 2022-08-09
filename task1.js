@@ -143,5 +143,5 @@ if (appraisal_count==8){
 let appraisal_sum = 0;
 for(i=0;i<8;i++){
     appraisal_sum = appraisal_sum + employees[i].appraisal;
-}
+} 
 console.log(appraisal_sum);
